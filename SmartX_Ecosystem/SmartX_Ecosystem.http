@@ -1,0 +1,6 @@
+@SmartX_Ecosystem_HostAddress = http://localhost:5263
+
+GET {{SmartX_Ecosystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

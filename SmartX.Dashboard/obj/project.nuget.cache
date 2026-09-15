@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckjtqTN08TI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emeris\\source\\repos\\SmartX_Ecosystem\\SmartX.Dashboard\\SmartX.Dashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emeris\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

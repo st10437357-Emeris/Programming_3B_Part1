@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SmartX_Ecosystem\\SmartX_Ecosystem.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SmartX.Dashboard\\SmartX.Dashboard.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

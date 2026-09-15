@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SmartX.Core/SmartX.Core.csproj" Id="d2380a31-7a90-4ac0-929b-2309b010507d" />
+  <Project Path="SmartX.Dashboard/SmartX.Dashboard.csproj" />
+  <Project Path="SmartX_Ecosystem/SmartX_Ecosystem.csproj" />
+</Solution>
